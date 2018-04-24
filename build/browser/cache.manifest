@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# Timestamp: 1524608605528
+# Automatically created by Toothrot Engine
+
+CACHE:
+index.html
+resources.js
+toothrot.js
+images/logo.png
+style/barsHorizontal.png
+style/custom.css
+style/default.css
+style/export.png
+style/import.png
+style/indicator.gif
+style/larger.png
