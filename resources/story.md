@@ -6,14 +6,12 @@
 ###: start
 
 Hello there little one. Are you lost? (# further options => {"inspect":
-"description", "smile": "smiling"} #)!
+"description", "smile": "smiling"} #)
 
 (: What should I do? => click :)
 
 (@) pwease help me kind sir, i'm just a little kiddy trying to make their way in this gosh darned world => sympathy_help
-
 (@) don't touch me => anger_recoil
-
 (@) *squint at him until he burns* => horrifying_death_sequence
 
 ###: description
